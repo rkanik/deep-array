@@ -1,0 +1,7 @@
+{
+	"ext": "ts",
+	"watch": [
+		"src"
+	],
+	"exec": "tsc --build tsconfig.prod.json"
+}
